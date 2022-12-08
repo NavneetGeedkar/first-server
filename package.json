@@ -1,16 +1,17 @@
 {
   "name": "first-server",
   "version": "1.0.0",
-  "description": "first node.js server",
+  "description": "my first server using nodejs",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "runThis": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NavneetGeedkar/first-server.git"
   },
-  "author": "navneet geedkar",
+  "author": "Navneet Geedkar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/NavneetGeedkar/first-server/issues"
